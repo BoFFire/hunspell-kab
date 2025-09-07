@@ -7,7 +7,7 @@ Origin :
 - Sourceforge : https://sourceforge.net/projects/tiranteqbaylit/
 - LibreOffice extensions : https://extensions.libreoffice.org/en/extensions/show/tira-n-teqbaylit
 
-## Contributors the the source project
+## Contributors the source project
 
 ```
 {
